@@ -1,2 +1,2 @@
 # test
-Repository is created for only learning purpose
+Repository is created for only learning purpose for me
